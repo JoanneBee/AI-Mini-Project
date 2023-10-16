@@ -1,2 +1,2 @@
 # Mini-Project
-It's a file that include the AI basic code exercise to allow users to segment n recognise the items
+It's an AI basic code exercise in PYTHON to allow users to segment n recognise the items
